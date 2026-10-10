@@ -16,3 +16,8 @@ assignees: ''
 * [ ] Acceptance Criteria1
 * [ ] Acceptance Criteria2
 * [ ] Acceptance CriteriaN
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
+´´´
